@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.header-section{
+    margin: 50px 10px;
+    width: 50%;
+}
+.top{
+    width: 98%;
+    height: 50px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin-bottom: 70px;
+}
+.fine-car{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px ;
+    line-height: 36px;
+    letter-spacing: -0.1px;
+    color: #0D0A19;
+}
+.button-area{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    color: #9A9EA7;
+}
+header p span {
+    margin: 0 5px;
+    width: 30px;
+    height: 30px;
+    
+}
+.button-area img{
+    background: #F5F6F7;
+    border-radius: 10px;
+    padding: 10px !important;
+}
+h2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0D0A19;
+}
+.product-item{
+    font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 18px ;
+	text-align: center ;
+	background: linear-gradient(0deg, rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), #7963f0;
+	border-radius: 8px ;
+	color: #7963f0 ;
+    padding: 5px;
+    border: none;
+}
+.product{
+    min-width: 24%;
+	margin: 0 20px 50px 0px;
+	position: relative;
+	left: 0;
+	transition: 0.5s;
+}
+
+
